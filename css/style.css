@@ -7,7 +7,8 @@
  * 2) Root
  * 3) Animate
 
- * 4) Header - #header
+ * 4) Header
+ * 5) Main title
 */
 
 /* ---- Reset ---- */
@@ -75,24 +76,36 @@ header #header .logo img {
     width: 100px;
 }
 
-header #header .nav {}
+header #header nav {}
 
-header #header .nav ul {}
+header #header nav ul {}
 
-header #header .nav ul li {
+header #header nav ul li {
     padding: 0 10px;
     float: left;
 }
 
 
 
+
+/* ---- Main title ---- */
+
 .layout-body {
     width: 100%;
     padding: 50px 0;
 }
-.layout-body #main-slide-wrap {
+.layout-body #main-title-wrap {
     width: 1440px;
     margin: 0 auto;
+}
+.layout-body #main-title-wrap .txt-box {
+    
+}
+
+.txt-box h1 {
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 100px;
 }
 
 
