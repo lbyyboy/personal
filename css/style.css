@@ -1,0 +1,126 @@
+@charset "utf-8";
+
+/*
+ * File : style.css
+ * SUMMARY:
+ * 1) Reset
+ * 2) Root
+ * 3) Animate
+
+ * 4) Header - #header
+*/
+
+/* ---- Reset ---- */
+
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,img {margin:0; padding:0;}
+html {width:100%; height:100%; overflow-y:scroll;overflow-x:hidden;
+    word-break: keep-all; color: 000; font-size: 16px;
+    font-family: 'Poppins','Pretendard-Regular', 'Montserrat', "Noto Sans KR", "sans-serif";}
+
+    
+    @font-face {
+        font-family: 'Pretendard-Regular';
+        src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+        font-weight: 400 500 600 700;
+        font-style: normal;
+    }
+
+
+a {text-decoration: none !important;}
+a:link { color: inherit; }
+a:visited { color: inherit; }
+a:active { color: inherit; }
+ul {list-style: none;}
+p {margin: 0; color: 000; line-height: 1.4;}
+
+
+
+
+/* ---- Root ---- */
+
+
+
+
+
+/* ---- Header ---- */
+
+header {
+    width: 100%;
+    height: 60px;
+    box-shadow: 0 20px 20px rgb(17 20 39 / 3%);
+}
+
+header #header {
+    width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header #header .logo {}
+header #header .logo img {
+    width: 100px;
+}
+
+header #header .nav {}
+
+header #header .nav ul {}
+
+header #header .nav ul li {
+    padding: 0 10px;
+    float: left;
+}
+
+
+
+.layout-body {
+    width: 100%;
+    padding: 50px 0;
+}
+.layout-body #main-slide-wrap {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+
+.layout-body {
+    width: 100%;
+    padding: 50px 0;
+}
+.layout-body #about-me-wrap {
+    width: 1440px;
+    margin: 0 auto;
+}
+.layout-body #about-me-wrap .prf {
+    display: flex;
+}
+.layout-body #about-me-wrap .prf .cont-title {
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    padding-left: 25px;
+}
+.layout-body #about-me-wrap .prf .cont-title::before {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 10px;
+    background: #4dc3c3;
+    transform: rotate(-45deg);
+    border-radius: 10px;
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+
+
+
+
+
+
+
+
+
+
