@@ -240,7 +240,7 @@ header #header nav ul li {
     align-items: center;
 }
 .gototop a:hover {
-    color: var(--jg-blue);
+    color: var(--by-purple);
 }
 
 
@@ -290,7 +290,7 @@ footer #footer .cont-box nav ul li a {
     font-size: 20px;
 }
 footer #footer .cont-box h1 {
-    float: right;
+    text-align: right;
     margin-top: 65px;
 }
 footer #footer .cont-box h1 img {
