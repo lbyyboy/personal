@@ -91,22 +91,6 @@ header #header nav ul li {
 
 
 
-.txt-box h1 {
-    font-size: 70px;
-    font-weight: 700;
-    line-height: 90px;
-}
-.txt-box h2 {
-    font-size: 48px;
-    font-weight: 700;
-    line-height: 60px;
-}
-.txt-box p {
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 30px;
-}
-
 /* ---- Main title ---- */
 
 .layout-body {
@@ -124,7 +108,21 @@ header #header nav ul li {
     font-size: 24px;
 }
 
-
+.txt-box h1 {
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 90px;
+}
+.txt-box h2 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+}
+.txt-box p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
 
 
 
