@@ -163,12 +163,12 @@ header #header nav ul li {
     font-weight: 500;
 }
 .btn p {
-    font-size: 14px;
+    font-size: 14px !important;
     color: #fff;
     margin-right: 15px;
 }
 .btn i {
-    font-size: 14px;
+    font-size: 14px !important;
     color: #fff;
 }
 
