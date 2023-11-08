@@ -142,6 +142,29 @@ header #header nav ul li {
     color: #fff;
 }
 
+.btn {
+    display: inherit;
+    width: 290px;
+    padding: 24px 38px;
+    margin: 0;
+    margin-right: 185px;
+    background: var(--by-blue);
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    transition: 0.4s;
+    border-radius: 46px;
+}
+.btn:hover {
+    opacity: .8;
+    font-weight: 500;
+}
+.btn i {
+    margin-left: 98px;
+    margin-top: 5px;
+}
+
 
 
 /* ---- Main potfolio ---- */
