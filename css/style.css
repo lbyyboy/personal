@@ -147,8 +147,9 @@ header #header nav ul li {
 }
 .btn {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    width: 150px;
     padding: 10px 20px;
     margin: 0;
     margin-right: 30px;
@@ -165,7 +166,6 @@ header #header nav ul li {
 .btn p {
     font-size: 14px !important;
     color: #fff;
-    margin-right: 15px;
 }
 .btn i {
     font-size: 14px !important;
