@@ -142,8 +142,9 @@ header #header nav ul li {
     color: #fff;
 }
 
-.layout-body #main-text-wrap .btn-box {
+.layout-body #main-text-wrap .txt-box .btn-box {
     display: flex;
+    margin-top: 20px;
 }
 .btn {
     display: flex;
