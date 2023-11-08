@@ -99,10 +99,12 @@ header #header nav ul li {
 }
 .layout-body #main-title-wrap {
     width: 1440px;
-    height: 900px;
+    height: 800px;
     margin: 0 auto;
 }
-.layout-body #main-title-wrap .txt-box {}
+.layout-body #main-title-wrap .txt-box {
+    margin: auto 0;
+}
 .layout-body #main-title-wrap .txt-box p {
     font-size: 24px;
 }
@@ -149,6 +151,7 @@ header #header nav ul li {
 .btn p {
     font-size: 14px !important;
     color: #fff;
+    margin: 0 !important;
 }
 .btn i {
     font-size: 14px !important;
