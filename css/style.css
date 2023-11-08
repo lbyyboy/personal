@@ -101,9 +101,7 @@ header #header nav ul li {
     width: 1440px;
     margin: 0 auto;
 }
-.layout-body #main-title-wrap .txt-box {
-    
-}
+.layout-body #main-title-wrap .txt-box {}
 .layout-body #main-title-wrap .txt-box p {
     font-size: 24px;
 }
@@ -152,7 +150,7 @@ header #header nav ul li {
     width: 100%;
     padding: 50px 0;
 }
-.layout-body #main-portfoilo-wrap {
+.layout-body #main-portfolio-wrap {
     width: 1440px;
     margin: 0 auto;
 }
