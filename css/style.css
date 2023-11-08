@@ -142,11 +142,16 @@ header #header nav ul li {
     color: #fff;
 }
 
+.layout-body #main-text-wrap .btn-box {
+    display: flex;
+}
 .btn {
-    display: inherit;
-    padding: 24px 38px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
     margin: 0;
-    margin-right: 185px;
+    margin-right: 30px;
     background: var(--by-blue);
     text-align: center;
     font-weight: 600;
@@ -164,8 +169,6 @@ header #header nav ul li {
 .btn i {
     font-size: 18px;
     color: #fff;
-    margin-left: 30px;
-    margin-top: 5px;
 }
 
 
