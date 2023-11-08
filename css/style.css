@@ -107,7 +107,7 @@ header #header nav ul li {
 }
 
 .txt-box h1 {
-    font-size: 70px;
+    font-size: 60px;
     font-weight: 700;
     line-height: 90px;
 }
@@ -147,9 +147,9 @@ header #header nav ul li {
 }
 .btn {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 10px;
+    padding: 10px 20px;
     margin: 0;
     margin-right: 30px;
     background: var(--by-blue);
@@ -163,11 +163,12 @@ header #header nav ul li {
     font-weight: 500;
 }
 .btn p {
-    font-size: 18px;
+    font-size: 14px;
     color: #fff;
+    margin-right: 15px;
 }
 .btn i {
-    font-size: 18px;
+    font-size: 14px;
     color: #fff;
 }
 
