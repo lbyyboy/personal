@@ -99,6 +99,7 @@ header #header nav ul li {
 }
 .layout-body #main-title-wrap {
     width: 1440px;
+    height: 900px;
     margin: 0 auto;
 }
 .layout-body #main-title-wrap .txt-box {}
@@ -109,7 +110,7 @@ header #header nav ul li {
 .txt-box h1 {
     font-size: 60px;
     font-weight: 700;
-    line-height: 90px;
+    line-height: 80px;
 }
 .txt-box h2 {
     font-size: 38px;
@@ -120,11 +121,12 @@ header #header nav ul li {
     font-size: 16px;
     font-weight: 400;
     line-height: 30px;
+    margin-top: 60px;
 }
 
 .layout-body #main-title-wrap .txt-box .btn-box {
     display: flex;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 .btn {
     display: flex;
