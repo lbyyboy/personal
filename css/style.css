@@ -191,6 +191,61 @@ header #header nav ul li {
 
 
 
+/* ---- Fixed Banner ---- */
+
+.fixed-banner {
+    z-index: 1000;
+}
+
+.fixed-bnr_kko {
+	
+	position: fixed;
+	height: 50px;
+	border-radius: 25px;
+	right: 25px;
+	top: 680px;
+	bottom: 100px;
+    color: #333;
+	box-shadow: 0 20px 40px rgb(17 20 39 / 10%);
+    z-index: 1000;
+}
+.fixed-bnr_kko a {
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fixed-bnr_kko a img {
+    height: inherit;
+}
+
+.gototop {
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	right: 25px;
+	top: 850px;
+	bottom: 30px;
+    color: #333;
+	background: #fff;
+	box-shadow: 0 20px 40px rgb(17 20 39 / 10%);
+    z-index: 1000;
+}
+.gototop a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gototop a:hover {
+    color: var(--jg-blue);
+}
+
+
+
+
 
 /* ---- Footer ---- */
 
