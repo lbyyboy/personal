@@ -144,13 +144,10 @@ header #header nav ul li {
 
 .btn {
     display: inherit;
-    width: 290px;
     padding: 24px 38px;
     margin: 0;
     margin-right: 185px;
     background: var(--by-blue);
-    font-size: 18px;
-    color: #fff;
     text-align: center;
     font-weight: 600;
     transition: 0.4s;
@@ -160,8 +157,14 @@ header #header nav ul li {
     opacity: .8;
     font-weight: 500;
 }
+.btn p {
+    font-size: 18px;
+    color: #fff;
+}
 .btn i {
-    margin-left: 98px;
+    font-size: 18px;
+    color: #fff;
+    margin-left: 30px;
     margin-top: 5px;
 }
 
