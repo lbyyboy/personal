@@ -196,7 +196,7 @@ header #header nav ul li {
 
 footer {
     width: 100%;
-    padding: 100px 0 25px;
+    padding: 80px 0 50px;
     box-shadow: 0 20px 20px rgb(17 20 39 / 3%);
     background-color: var(--darkgray);
 }
@@ -234,7 +234,10 @@ footer #footer .cont-box nav ul li a {
     color: #fff;
     font-size: 20px;
 }
-footer #footer .cont-box h1 {}
+footer #footer .cont-box h1 {
+    float: right;
+    margin-top: 65px;
+}
 footer #footer .cont-box h1 img {
     width: 150px;
 }
