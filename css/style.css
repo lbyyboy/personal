@@ -99,7 +99,7 @@ header #header nav ul li {
 }
 .layout-body #main-title-wrap {
     width: 1440px;
-    height: 800px;
+    height: 700px;
     margin: 0 auto;
 }
 .layout-body #main-title-wrap .txt-box {
@@ -144,6 +144,9 @@ header #header nav ul li {
     transition: 0.4s;
     border-radius: 46px;
 }
+.btn.bg-purple {
+    background: var(--by-purple);
+}
 .btn:hover {
     opacity: .8;
     font-weight: 500;
@@ -169,6 +172,7 @@ header #header nav ul li {
 .layout-body #main-text-wrap {
     width: 1440px;
     margin: 0 auto;
+    padding: 30px 0;
 }
 .layout-body #main-text-wrap .txt-box {}
 .layout-body #main-text-wrap .txt-box h2 {
@@ -189,6 +193,7 @@ header #header nav ul li {
 .layout-body #main-portfolio-wrap {
     width: 1440px;
     margin: 0 auto;
+    padding: 50px 0;
     display: flex;
     justify-content: space-between;
 }
@@ -233,6 +238,24 @@ header #header nav ul li {
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar.swiper-pagination-horizontal {
     top: auto;
     bottom: 0;
+}
+
+
+
+
+/* ---- Contact Banner ---- */
+
+.layout-body {
+    width: 100%;
+    padding: 50px 0;
+}
+.layout-body #contact-banner-wrap {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 
@@ -354,6 +377,7 @@ footer #footer .txt-box {}
 footer #footer .txt-box p {
     font-size: 16px;
     color: #fff;
+    margin-top: 20px;
 }
 footer #footer .txt-box p span {
     margin: 0 10px;
