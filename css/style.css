@@ -206,7 +206,9 @@ header #header nav ul li {
     width: 1000px;
     height: 100%;
 }
-.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide {}
+.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide {
+    margin-bottom: 20px;
+}
 
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide img {
     display: block;
@@ -215,6 +217,7 @@ header #header nav ul li {
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide .txt-box {}
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide .txt-box h3 {
     font-size: 24px;
+    font-weight: 600;
     margin-top: 10px;
 }
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide .txt-box h3 span {
@@ -223,13 +226,13 @@ header #header nav ul li {
 }
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide .txt-box p {
     font-size: 16px;
+    line-height: 24px;
     margin-top: 15px;
 }
 
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar.swiper-pagination-horizontal {
     top: auto;
     bottom: 0;
-    margin-top: 20px;
 }
 
 
