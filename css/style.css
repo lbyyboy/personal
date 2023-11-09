@@ -201,10 +201,7 @@ header #header nav ul li {
     width: 1000px;
     height: 100%;
 }
-.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide {
-    text-align: center;
-    font-size: 18px;
-}
+.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide {}
 
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide img {
     display: block;
