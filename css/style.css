@@ -198,7 +198,7 @@ header #header nav ul li {
 
 .layout-body #main-portfolio-wrap .cont-box {}
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper {
-    width: 100%;
+    width: 1000px;
     height: 100%;
 }
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide {
