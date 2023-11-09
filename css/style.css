@@ -213,7 +213,7 @@ header #header nav ul li {
     object-fit: cover;
 }
 
-.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar.swiper-pagination-horizontal {
     top: auto;
     bottom: 0;
 }
