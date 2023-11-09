@@ -189,7 +189,36 @@ header #header nav ul li {
 .layout-body #main-portfolio-wrap {
     width: 1440px;
     margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
 }
+
+.layout-body #main-portfolio-wrap .txt-box {}
+
+
+.layout-body #main-portfolio-wrap .cont-box {}
+.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper {
+    width: 100%;
+    height: 100%;
+}
+.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+}
+
+.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
 
 
 .layout-body {
