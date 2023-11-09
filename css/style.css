@@ -209,8 +209,6 @@ header #header nav ul li {
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide img {
     display: block;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
 }
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide .txt-box {}
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-slide .txt-box h3 {
@@ -227,6 +225,7 @@ header #header nav ul li {
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar.swiper-pagination-horizontal {
     top: auto;
     bottom: 0;
+    margin-top: 20px;
 }
 
 
