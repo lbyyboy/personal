@@ -100,11 +100,13 @@ header #header nav ul li .submenu {
 }
 header #header nav ul li .submenu li {
     width: 110px;
-    height: 20px;
-    line-height: 20px;
+    height: 30px;
+    margin: 0;
+    line-height: 30px;
     text-align: center;
     font-size: 16px;
     background: #fff;
+    color: #000;
     transition: all 0.25s;
 }
 header #header nav ul li .submenu li:hover {
