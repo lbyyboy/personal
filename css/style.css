@@ -96,7 +96,7 @@ header #header nav ul li .submenu {
     width: 110px;
     z-index: 100;
     position: absolute;
-    display: none;
+    /*display: none;*/
 }
 header #header nav ul li .submenu li {
     width: 110px;
