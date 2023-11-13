@@ -88,6 +88,7 @@ header #header nav ul li {
     height: 60px;
     float: left;
     text-align: center;
+    line-height: 60px;
     position: relative;
     transition: all 0.25s;
 }

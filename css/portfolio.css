@@ -18,6 +18,26 @@
     align-items: center;
     flex-wrap: wrap;
 }
+
+#portfolio-list-wrap .txt-box {}
+#portfolio-list-wrap .txt-box ul {
+    margin-top: 20px;
+}
+#portfolio-list-wrap .txt-box ul li {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--sub-txt);
+    position: relative;
+}
+#portfolio-list-wrap .txt-box ul li::after {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 14px;
+    margin: 0 10px;
+}
+
+
 #portfolio-list-wrap .ptf-cont {
     width: 24%;
 }
