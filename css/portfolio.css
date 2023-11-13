@@ -32,16 +32,16 @@
 }
 #portfolio-list-wrap .ptf-cont .txt-box {}
 #portfolio-list-wrap .ptf-cont .txt-box h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     margin-top: 10px;
 }
 #portfolio-list-wrap .ptf-cont .txt-box h3 span {
-    font-size: 16px;
+    font-size: 14px;
     color: var(--sub-txt);
 }
 #portfolio-list-wrap .ptf-cont .txt-box p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 24px;
     margin-top: 15px;
 }
