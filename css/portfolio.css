@@ -24,6 +24,7 @@
     font-weight: 500;
     color: var(--sub-txt);
     float: left;
+    margin-right: 21px;
     position: relative;
 }
 #portfolio-list-wrap .txt-box ul li::after {
@@ -31,11 +32,17 @@
     position: absolute;
     width: 1px;
     height: 14px;
+    background: var(--sub-txt);
     margin: 0 10px;
+}
+#portfolio-list-wrap .txt-box ul li:last-child::after {
+    display: none;
 }
 
 
 #portfolio-list-wrap .ptf-list {
+    width: 100%;
+    margin-top: 45px;
     display: flex;
     justify-content: space-between;
     align-items: center;
