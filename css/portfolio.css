@@ -24,14 +24,13 @@
     font-weight: 500;
     color: var(--sub-txt);
     float: left;
-    margin-right: 21px;
     position: relative;
 }
 #portfolio-list-wrap .txt-box ul li.on {
     color: var(--by-blue);
 }
 #portfolio-list-wrap .txt-box ul li.line {
-    margin: 10px;
+    margin: 0 15px;
 }
 
 
