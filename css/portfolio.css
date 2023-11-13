@@ -17,7 +17,7 @@
 
 #portfolio-list-wrap .txt-box {}
 #portfolio-list-wrap .txt-box ul {
-    margin-top: 20px;
+    margin-top: 15px;
 }
 #portfolio-list-wrap .txt-box ul li {
     font-size: 14px;
@@ -34,6 +34,7 @@
     height: 14px;
     background: var(--sub-txt);
     margin: 0 10px;
+    top: 5px;
 }
 #portfolio-list-wrap .txt-box ul li:last-child::after {
     display: none;
@@ -42,7 +43,7 @@
 
 #portfolio-list-wrap .ptf-list {
     width: 100%;
-    margin-top: 45px;
+    margin-top: 65px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -50,6 +51,7 @@
 }
 #portfolio-list-wrap .ptf-list .ptf-cont {
     width: 24%;
+    margin-bottom: 30px;
 }
 #portfolio-list-wrap .ptf-list .ptf-cont a {
     width: 100%;
