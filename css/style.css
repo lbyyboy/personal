@@ -168,10 +168,6 @@ header #header nav ul li:last-child {
 
 /* ---- Main text ---- */
 
-.layout-body {
-    width: 100%;
-    padding: 50px 0;
-}
 .layout-body #main-text-wrap {
     width: 1440px;
     margin: 0 auto;
@@ -189,10 +185,6 @@ header #header nav ul li:last-child {
 
 /* ---- Main potfolio ---- */
 
-.layout-body {
-    width: 100%;
-    padding: 50px 0;
-}
 .layout-body #main-portfolio-wrap {
     width: 1440px;
     margin: 0 auto;
@@ -248,10 +240,6 @@ header #header nav ul li:last-child {
 
 /* ---- Contact Banner ---- */
 
-.layout-body {
-    width: 100%;
-    padding: 50px 0;
-}
 .layout-body #contact-banner-wrap {
     width: 1440px;
     margin: 0 auto;
@@ -269,10 +257,6 @@ header #header nav ul li:last-child {
 
 
 
-.layout-body {
-    width: 100%;
-    padding: 50px 0;
-}
 .layout-body #about-me-wrap {
     width: 1440px;
     margin: 0 auto;
