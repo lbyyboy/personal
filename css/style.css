@@ -130,16 +130,16 @@ header #header nav ul li .submenu li:hover {
 }
 .layout-body #main-title-wrap .txt-box {
     margin: auto 0;
-    margin-top: 100px;
+    margin-top: 120px;
 }
 .layout-body #main-title-wrap .txt-box p {
     font-size: 18px;
 }
 
 .txt-box h1 {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
-    line-height: 80px;
+    line-height: 70px;
 }
 .txt-box h2 {
     font-size: 38px;
@@ -149,7 +149,7 @@ header #header nav ul li .submenu li:hover {
 .txt-box p {
     font-size: 16px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 26px;
     margin-top: 40px;
 }
 
