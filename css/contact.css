@@ -82,6 +82,9 @@
     justify-content: space-between;
     align-items: center;
 }
+#ct-banner-wrap .txt-box h3 {
+    color: #fff;
+}
 
 
 
