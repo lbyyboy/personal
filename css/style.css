@@ -196,6 +196,8 @@ header #header nav ul li .submenu li:hover {
 .layout-body.main-text-bg {
     background-color: var(--by-blue);
     background-image: url(../img/main_text_bg.svg);
+    background-attachment: fixed;
+    background-size: cover;
 }
 .layout-body #main-text-wrap {
     width: 1440px;
