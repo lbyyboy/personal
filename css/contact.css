@@ -27,10 +27,11 @@
 
 #contact-wrap .cont-box {
     width: 100%;
-    height: 500px;
+    height: 400px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 30px;
 }
 
 #contact-wrap .cont-box .logo-box {
