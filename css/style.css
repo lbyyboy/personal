@@ -193,6 +193,10 @@ header #header nav ul li .submenu li:hover {
 
 /* ---- Main text ---- */
 
+.layout-body.main-text-bg {
+    background-color: var(--by-blue);
+    background-image: ;
+}
 .layout-body #main-text-wrap {
     width: 1440px;
     margin: 0 auto;
