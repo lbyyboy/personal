@@ -257,6 +257,10 @@ header #header nav ul li .submenu li:hover {
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar.swiper-pagination-horizontal {
     top: auto;
     bottom: 0;
+    border-radius: 2px;
+}
+.layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar.swiper-pagination-horizontal .swiper-pagination-progressbar-fill {
+    background: var(--by-purple);
 }
 
 
