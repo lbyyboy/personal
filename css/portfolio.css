@@ -80,13 +80,13 @@
 
 /* ---- Portfolio Board ---- */
 
-#portfoilo-board-wrap {
+#portfolio-board-wrap {
     width: 1440px;
     margin: 0 auto;
     padding: 30px 0;
 }
 
-#portfoilo-board-wrap .title-box {
+#portfolio-board-wrap .title-box {
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -94,28 +94,28 @@
     border-bottom: 1px solid var(--sub-txt);
     margin-bottom: 30px;
 }
-#portfoilo-board-wrap .title-box h3 {
+#portfolio-board-wrap .title-box h3 {
     font-size: 24px;
     font-weight: 600;
 }
-#portfoilo-board-wrap .title-box p {
+#portfolio-board-wrap .title-box p {
     font-size: 14px;
     color: var(--sub-txt);
 }
 
 
-#portfoilo-board-wrap .ptf-board {
+#portfolio-board-wrap .ptf-board {
     width: 1200px;
     margin: 0 auto;
 }
 
 
 
-#portfoilo-board-wrap .ptf-board .ptf-img {
+#portfolio-board-wrap .ptf-board .ptf-img {
     margin-top: 40px;
     width: 100%;
 }
-#portfoilo-board-wrap .ptf-board .ptf-img img {
+#portfolio-board-wrap .ptf-board .ptf-img img {
     width: 100%;
     margin: 0 auto;
 }
