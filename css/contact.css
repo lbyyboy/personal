@@ -4,6 +4,7 @@
  * File : contact.css
  * SUMMARY:
  * 1) Contact
+ * 2) Portfolio Banner
 */
 
 
@@ -64,6 +65,23 @@
     color: var(--by-blue);
     margin-right: 15px;
 }
+
+
+
+/* ---- Portfolio Banner ---- */
+
+.#ct-banner-wrap {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(../img/ct-banner-bg.jpg);
+}
+
+
+
 
 
 
