@@ -322,28 +322,6 @@ header #header nav ul li .submenu li:hover {
     z-index: 1000;
 }
 
-.fixed-bnr_kko {
-	
-	position: fixed;
-	height: 50px;
-	border-radius: 25px;
-	right: 25px;
-	top: 680px;
-	bottom: 100px;
-    color: #333;
-	box-shadow: 0 20px 40px rgb(17 20 39 / 10%);
-    z-index: 1000;
-}
-.fixed-bnr_kko a {
-    height: inherit;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.fixed-bnr_kko a img {
-    height: inherit;
-}
-
 .gototop {
 	position: fixed;
 	width: 50px;
