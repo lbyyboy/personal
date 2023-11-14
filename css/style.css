@@ -5,7 +5,7 @@
  * SUMMARY:
  * 1) Reset
  * 2) Root
- * 3) Animate
+ * 3) Common
 
  * 4) Header
  * 5) Main title
@@ -53,6 +53,67 @@ p {margin: 0; line-height: 1.4;}
     --line-color: #d4d4d4;
     
     --sub-txt: #767676;
+}
+
+
+
+/* ---- Common ---- */
+
+.bg-lightgray {
+    background-color: var(--lightgray);
+}
+
+
+
+.txt-box h1 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 70px;
+}
+.txt-box h2 {
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 48px;
+}
+.txt-box p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+    padding: 10px 20px;
+    margin: 0;
+    margin-right: 30px;
+    background: var(--by-blue);
+    text-align: center;
+    font-weight: 600;
+    transition: 0.4s;
+    border-radius: 46px;
+}
+.btn.bg-purple {
+    background: var(--by-purple);
+}
+.btn:hover {
+    opacity: .8;
+    font-weight: 500;
+}
+.btn p {
+    font-size: 14px !important;
+    color: #fff;
+    margin: 0 !important;
+    font-weight: 600;
+}
+.btn i {
+    font-size: 14px !important;
+    color: #fff;
 }
 
 
@@ -136,57 +197,10 @@ header #header nav ul li .submenu li:hover {
     font-size: 18px;
 }
 
-.txt-box h1 {
-    font-size: 50px;
-    font-weight: 700;
-    line-height: 70px;
-}
-.txt-box h2 {
-    font-size: 38px;
-    font-weight: 700;
-    line-height: 48px;
-}
-.txt-box p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
-    margin-top: 30px;
-}
 
 .layout-body #main-title-wrap .txt-box .btn-box {
     display: flex;
     margin-top: 100px;
-}
-.btn {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 120px;
-    padding: 10px 20px;
-    margin: 0;
-    margin-right: 30px;
-    background: var(--by-blue);
-    text-align: center;
-    font-weight: 600;
-    transition: 0.4s;
-    border-radius: 46px;
-}
-.btn.bg-purple {
-    background: var(--by-purple);
-}
-.btn:hover {
-    opacity: .8;
-    font-weight: 500;
-}
-.btn p {
-    font-size: 14px !important;
-    color: #fff;
-    margin: 0 !important;
-    font-weight: 600;
-}
-.btn i {
-    font-size: 14px !important;
-    color: #fff;
 }
 
 

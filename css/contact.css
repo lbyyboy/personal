@@ -70,6 +70,10 @@
 
 /* ---- Portfolio Banner ---- */
 
+.ct-bg-img {
+    background-image: url(../img/ct-banner-bg.jpg);
+    background-size: cover;
+}
 #ct-banner-wrap {
     width: 1440px;
     margin: 0 auto;
@@ -77,7 +81,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../img/ct-banner-bg.jpg);
 }
 
 
