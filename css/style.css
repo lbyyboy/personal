@@ -261,6 +261,7 @@ header #header nav ul li .submenu li:hover {
 }
 .layout-body #main-portfolio-wrap .cont-box .main-ptf-swiper .swiper-pagination-progressbar.swiper-pagination-horizontal .swiper-pagination-progressbar-fill {
     background: var(--by-purple);
+    border-radius: 2px;
 }
 
 
