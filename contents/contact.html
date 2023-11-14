@@ -2,93 +2,128 @@
 <html lang="en">
 <head>
 
-    <?php include $_SERVER['DOCUMENT_ROOT']."/inc/meta.html"; ?>
+    <!--?php include $_SERVER['DOCUMENT_ROOT']."/inc/meta.html"; ?-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B-lab | 이보연 포트폴리오</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/style.css" type="text/css">
+    <link rel="stylesheet" href="../css/contact.css" type="text/css">
+    <link rel="stylesheet" href="../css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+
+    <!-- JS -->
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="https://kit.fontawesome.com/5d1da63681.js" crossorigin="anonymous"></script>
+
+    <!-- WOW -->
+    <script src="../js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
 </head>
 <body>
 
-    <?php include $_SERVER['DOCUMENT_ROOT']."/inc/header.html"; ?>
+    <!--Header Start-->
+
+    <!--?php include $_SERVER['DOCUMENT_ROOT']."/inc/header.html"; ?-->
+    <header>
+        <div id="header">
+            <h1 class="logo">
+                <a href="../index.html"><img src="../img/logo.svg" alt="B-lab"></a>
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="../contents/about.html">About</a></li>
+                    <li><a href="../contents/ptf-web.html">Portfolio</a>
+                        <ul class="submenu">
+                            <li><a href="../contents/ptf-web.html">Web</a></li>
+                            <li><a href="../contents/ptf-design.html">Design</a></li>
+                            <li><a href="../contents/ptf-video.html">Video</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../contents/portfolio.html">Hobbie</a></li>
+                    <li><a href="../contents/contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!--Header End-->
+
+    <!--Contact Start-->
 
     <div class="layout-body">
-        <div id="main-slide-wrap">
+        <div id="contact-wrap">
             <div class="txt-box">
-                <h1>Boyeon's<br>Laboratory</h1>
-                <p>
-                    항상 새로운 것을 찾고 갈망하는 웹 퍼블리셔,<br>
-                    이보연의 연구소에 오신 것을 환영합니다.
-                </p>
-                <div>
-                    <a href="/contents/about.html" class="bottomBtn animate__ wow animate__fadeInUp animate__delay-03s animated" style="visibility: visible; animation-name: fadeInUp;">
-                        About Me
-                        <!--i class="fa-solid fa-chevron-right"></i-->
-                    </a>
-                    <a href="/contents/contact.html" class="bottomBtn animate__ wow animate__fadeInUp animate__delay-03s animated" style="visibility: visible; animation-name: fadeInUp;">
-                        Contact
-                        <!--i class="fa-solid fa-chevron-right"></i-->
-                    </a>
+                <h2>Contact</h2>
+                <p>아래 연락처로 연락 주시면 확인하는 대로 최대한 빠른 답변 드리겠습니다.</p>
+            </div>
+            <div class="cont-box">
+                <div class="logo-box">
+                    <img src="../img/logo.svg" alt="B-lab">
+                </div>
+                <span class="line"></span>
+                <div class="ct-box">
+                    <ul>
+                        <li><i class="fa-solid fa-phone"></i>010-3380-3089</li>
+                        <li><i class="fa-solid fa-envelope"></i>lbyyboy@gamil.com</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
 
-    <!--div class="layout-body">
-        <div id="about-me-wrap">
-            <div class="prf">
-                <h3 class="cont-title">Profile</h3>
-                <p>
-                    Name : 이보연<br>
-                    Birth : 1997. 06.<br>
-                    E-mail : lbyyboy@gmail.com<br>
-                    Phone : 010-0000-0000
-                </p>
+    <!--Contact End-->
+
+
+
+    <!--Fixed banner Start-->
+
+    <div class="fixed-banner">
+        <div class="gototop">
+            <a href="#">
+                <i class="fa-solid fa-angle-up"></i>
+            </a>
+        </div>
+    </div>
+    <!--Fixed banner End-->
+
+
+    <!--Footer Start-->
+
+    <!--?php include $_SERVER['DOCUMENT_ROOT']."/inc/footer.html"; ?-->
+    <footer>
+        <div id="footer">
+            <div class="txt-box">
+                <p>이보연<span>|</span>Web Publisher<span>|</span>E. lbyyboy@gmail.com<span>|</span>T. 010-3380-3089</p>
+                <p>2023 Copyright © Lee Boyeon All Rights Reserved.</p>
             </div>
-            <div class="abm">
-                <h3 class="cont-title">About me</h3>
-                <div class="cont-box">
-                    <p>
-                        "찾아라, 그리고 갈망하라."<br><br>
-    
-                        이니셜을 활용하여 만든 좌우명 입니다.<br>
-                        제 스스로가 좋아하는 것, 원하는 것, 하고 싶은 것이 무엇인지 항상 생각하고 찾아볼뿐만 아니라<br>
-                        끊임없이 갈망하고 그것을 이루기 위해 열심히 노력하는 것.<br>
-                        이러한 과정들이 하나 둘 모여 저를 더욱 발전시킬 수 있다고 믿습니다.<br>
-                        항상 새로운 것을 찾고 갈망하는,<br><br>
-    
-                        <span>이보연</span>입니다.
-                    </p>
-                </div>
-            </div>
-            <div class="bgp">
-                <h3 class="cont-title">Biography</h3>
-                <div class="cont-box">
+            <div class="cont-box">
+                <nav>
                     <ul>
-                        <li>
-                            <span>2023.03</span>
-                            <p>현대차증권 광고 비딩 참여 및 계약 체결</p>
-                        </li>
-                        <li>
-                            <span>2023.01 ~<br>2023.04</span>
-                            <p>자사 홈페이지 리뉴얼 데모 버전 제작</p>
-                        </li>
-                        <li>
-                            <span>2022.10</span>
-                            <p>미래에셋증권 광고 비딩 참여</p>
-                        </li>
-                        <li>
-                            <span>2022.04</span>
-                            <p>덕성여자대학교 광고 포스터 비딩 참여 및 계약 체결</p>
-                        </li>
-                        <li>
-                            <span>2023.03</span>
-                            <p>현대차증권 광고 비딩 참여 및 계약 체결</p>
-                        </li>
+                        <li><a href="../contents/about.html">About</a></li>
+                        <li><a href="../contents/ptf-web.html">Portfolio</a></li>
+                        <li><a href="../contents/portfolio.html">Hobbie</a></li>
+                        <li><a href="../contents/contact.html">Contact</a></li>
                     </ul>
-                </div>
+                </nav>
+                <h1 class="logo">
+                    <img src="../img/logo_w.svg" alt="B-lab">
+                </h1>
             </div>
         </div>
-    </div-->
+    </footer>
 
-    <?php include $_SERVER['DOCUMENT_ROOT']."/inc/footer.html"; ?>
+    <!--Footer End-->
     
 </body>
 </html>

@@ -63,9 +63,10 @@
     font-weight: 600;
     margin-top: 10px;
 }
-#portfolio-list-wrap .ptf-list .ptf-cont .txt-box h3 span {
+#portfolio-list-wrap .ptf-list .ptf-cont .txt-box span {
     font-size: 14px;
     color: var(--sub-txt);
+    margin-top: 7px;
 }
 #portfolio-list-wrap .ptf-list .ptf-cont .txt-box p {
     font-size: 14px;
@@ -105,6 +106,17 @@
 
 #portfoilo-board-wrap .ptf-board {
     width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+#portfoilo-board-wrap .ptf-board .ptf-img {
+    margin-top: 40px;
+    width: 100%;
+}
+#portfoilo-board-wrap .ptf-board .ptf-img img {
+    width: 100%;
     margin: 0 auto;
 }
 
