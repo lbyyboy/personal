@@ -125,12 +125,12 @@ header #header nav ul li .submenu li:hover {
 }
 .layout-body #main-title-wrap {
     width: 1440px;
-    height: 700px;
+    height: 600px;
     margin: 0 auto;
 }
 .layout-body #main-title-wrap .txt-box {
     margin: auto 0;
-    margin-top: 120px;
+    margin-top: 100px;
 }
 .layout-body #main-title-wrap .txt-box p {
     font-size: 18px;
