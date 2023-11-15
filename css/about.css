@@ -6,6 +6,7 @@
  * 1) About txt
  * 2) Profile
  * 3) Biography
+ * 4) Skill
 */
 
 
@@ -96,7 +97,7 @@
     margin-right: 80px;
 }
 #biography-wrap .bio-list li {
-    padding: 10px 0;
+    padding: 10px 5px;
     display: flex;
     border-top: 1px dashed var(--line-color);
 }
@@ -113,6 +114,27 @@
     font-size: 16px;
 }
 
+
+
+
+
+/* ---- Skill ---- */
+
+#skill-wrap {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 30px 0;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+#skill-wrap h2 {
+    font-size: 38px;
+    font-weight: 600;
+    color: var(--by-blue);
+    margin-right: 80px;
+}
 
 
 
