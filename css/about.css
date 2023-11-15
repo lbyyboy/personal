@@ -5,8 +5,9 @@
  * SUMMARY:
  * 1) About txt
  * 2) Profile
- * 3) Biography
- * 4) Skill
+ * 3) About Info
+ * 4) Biography
+ * 5) Skill
 */
 
 
@@ -78,12 +79,21 @@
 
 
 
+/* ---- About Info ---- */
+
+#about-info-wrap {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 30px 0;
+    display: flex;
+    align-items: start;
+}
+
 
 /* ---- Biography ---- */
 
 #biography-wrap {
-    width: 1440px;
-    margin: 0 auto;
+    width: 50%;
     padding: 30px 0;
     display: flex;
     align-items: start;
@@ -121,8 +131,7 @@
 /* ---- Skill ---- */
 
 #skill-wrap {
-    width: 1440px;
-    margin: 0 auto;
+    width: 50%;
     padding: 30px 0;
     display: flex;
     align-items: start;
