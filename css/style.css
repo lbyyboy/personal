@@ -184,6 +184,10 @@ header #header nav ul li .submenu li:hover {
     width: 100%;
     padding: 50px 0;
 }
+.layout-body.main-title-bg {
+    background-image: url(../img/main-title-img.png);
+    background-size: cover;
+}
 .layout-body #main-title-wrap {
     width: 1440px;
     height: 600px;
