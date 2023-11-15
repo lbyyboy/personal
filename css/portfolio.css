@@ -106,7 +106,6 @@
 #portfolio-board-wrap .title-box .title p {
     font-size: 24px;
     color: var(--sub-txt);
-    line-height: 0;
 }
 #portfolio-board-wrap .title-box .btn-return {
     padding: 9px 13px;
@@ -134,6 +133,9 @@
 }
 #portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-thumbnail img {
     width: 100%;
+}
+#portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-txt:first-child {
+    margin-bottom: 10px;
 }
 #portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-txt li i {
     color: var(--by-blue);
