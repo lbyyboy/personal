@@ -97,7 +97,6 @@
     padding: 30px 0;
     display: flex;
     align-items: start;
-    justify-content: center;
 }
 
 #biography-wrap h2 {
@@ -135,7 +134,6 @@
     padding: 30px 0;
     display: flex;
     align-items: start;
-    justify-content: center;
 }
 
 #skill-wrap h2 {
@@ -143,6 +141,16 @@
     font-weight: 600;
     color: var(--by-blue);
     margin-right: 80px;
+}
+#skill-wrap .skill-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+#skill-wrap .skill-list li {
+    width: 45%;
+    margin-bottom: 15px;
 }
 
 
