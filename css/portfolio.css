@@ -106,12 +106,12 @@
 #portfolio-board-wrap .title-box .title p {
     font-size: 24px;
     color: var(--sub-txt);
+    line-height: 0;
 }
 #portfolio-board-wrap .title-box .btn-return {
     padding: 9px 13px;
     font-size: 12px;
     font-weight: 600;
-    background: var(--lightgray);
     border: 1px solid #d4d4d4;
     display: flex;
     justify-content: center;
@@ -148,6 +148,26 @@
 #portfolio-board-wrap .ptf-board .ptf-img img {
     width: 100%;
     margin: 0 auto 10px;
+}
+
+
+
+#portfolio-board-wrap .bottom-box {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 1px solid var(--sub-txt);
+}
+#portfolio-board-wrap .bottom-box .btn-return {
+    padding: 9px 13px;
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid #d4d4d4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
