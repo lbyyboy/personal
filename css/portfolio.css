@@ -97,6 +97,7 @@
 }
 #portfolio-board-wrap .title-box .title {
     display: flex;
+    align-items: center;
 }
 #portfolio-board-wrap .title-box .title h2 {
     font-size: 30px;
@@ -134,7 +135,7 @@
 #portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-thumbnail img {
     width: 100%;
 }
-#portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-txt:first-child {
+#portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-txt li:first-child {
     margin-bottom: 10px;
 }
 #portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-txt li i {
