@@ -91,29 +91,31 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     border-bottom: 1px solid var(--sub-txt);
     margin-bottom: 30px;
 }
 #portfolio-board-wrap .title-box .title {
     display: flex;
-    align-items: end;
 }
 #portfolio-board-wrap .title-box .title h2 {
     font-size: 30px;
     font-weight: 600;
+    margin-right: 20px;
 }
 #portfolio-board-wrap .title-box .title p {
-    font-size: 18px;
+    font-size: 24px;
     color: var(--sub-txt);
 }
 #portfolio-board-wrap .title-box .btn-return {
-    width: 100px;
-    height: 28px;
-    font-size: 14px;
+    padding: 9px 13px;
+    font-size: 12px;
+    font-weight: 600;
     background: var(--lightgray);
-    border: 1px solid #000;
-    border-radius: 7px;
+    border: 1px solid #d4d4d4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -132,6 +134,9 @@
 }
 #portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-thumbnail img {
     width: 100%;
+}
+#portfolio-board-wrap .ptf-board .ptf-board-info .ptf-board-txt li i {
+    color: var(--by-blue);
 }
 
 
