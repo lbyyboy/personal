@@ -152,6 +152,9 @@
     width: 45%;
     margin-bottom: 15px;
 }
+#skill-wrap .skill-list li img {
+    width: 100%;
+}
 
 
 
