@@ -85,22 +85,24 @@
     margin: 0 auto;
     padding: 30px 0;
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: center;
 }
 
-#biography-wrap h3 {
-    font-size: 24px;
+#biography-wrap h2 {
+    font-size: 38px;
     font-weight: 600;
     color: var(--by-blue);
-    margin-right: 20px;
+    margin-right: 80px;
 }
 #biography-wrap .bio-list li {
-    margin: 5px 0;
+    padding: 10px 0;
     display: flex;
+    border-top: 1px dashed var(--line-color);
 }
 #biography-wrap .bio-list li:first-child {
-    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
 }
 #biography-wrap .bio-list li h5 {
     width: 100px;
