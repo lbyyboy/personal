@@ -40,7 +40,7 @@
     width: 100%;
     margin-top: 65px;
     display: flex;
-    align-items: center;
+    align-items: start;
     flex-wrap: wrap;
 }
 #portfolio-list-wrap .ptf-list .ptf-cont {
