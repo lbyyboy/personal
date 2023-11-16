@@ -31,11 +31,11 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    flex-grow: 1;
 }
 #hobbie-list-wrap .hob-list .hob-cont {
     width: 30%;
     margin-bottom: 45px;
+    margin-right: 3%;
 }
 #hobbie-list-wrap .hob-list .hob-cont a {
     width: 100%;
