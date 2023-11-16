@@ -29,6 +29,7 @@
     width: 100%;
     margin-top: 65px;
     display: flex;
+    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
 }
@@ -44,7 +45,7 @@
 #hobbie-list-wrap .hob-list .hob-cont iframe {
     display: block;
     width: 100%;
-    height: 40%;
+    height: 100%;
 }
 #hobbie-list-wrap .hob-list .hob-cont .txt-box {}
 #hobbie-list-wrap .hob-list .hob-cont .txt-box h3 {
