@@ -29,9 +29,9 @@
     width: 100%;
     margin-top: 65px;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    flex-grow: 1;
 }
 #hobbie-list-wrap .hob-list .hob-cont {
     width: 30%;
