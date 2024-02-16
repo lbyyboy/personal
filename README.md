@@ -25,7 +25,7 @@
 
 ## Portfolio List 📃
 <div style="display:flex; flex-direction:row;">
-    <a href="https://lbyyboy.github.io/personal/contents/portfolio/web-01.html" style="display:flex; flex-direction:column; align-items:center; ">
+    <a href="https://lbyyboy.github.io/personal/contents/portfolio/web-01.html" style="display:flex; flex-direction:column;">
         <img src="https://lbyyboy.github.io/personal/img/web-01-thumbnail.jpg" width="300px">
         <p>JGPARTNERS 홈페이지 데모</p>
     </a>
