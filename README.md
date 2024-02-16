@@ -1,8 +1,8 @@
 ### https://lbyyboy.github.io/personal/
-# 프로젝트 명 : 이보연 포트폴리오 홈페이지 B-lab
+이보연 포트폴리오 홈페이지 B-lab
 
-## 프로젝트 목표
-취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
+## Subject 📌
+포트폴리오 전시 및 홍보
 
 ## Skills  🛠
 <div style="display:flex; flex-direction:row;">
@@ -23,7 +23,6 @@
 </div>
 
 ## 기능 및 섹션
-
 - 포트폴리오 작품 게시
 - 자기소개 페이지
 - 연락처 정보
@@ -35,7 +34,7 @@
 - ACCUNIQ https://pageservice.github.io/pf1/
 
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
-![JGPARTNERS demo homepage](https://github.com/lbyyboy/personal/assets/138211993/6a9fdc3e-5364-4b57-ac88-0e3367776bc7)
+<img src="https://lbyyboy.github.io/personal/img/web-01-thumbnail.jpg" width="300px">
 
 
 
