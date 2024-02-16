@@ -9,18 +9,18 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
-    <img src="https://img.shields.io/badge/adobedreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
-    <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
-    <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
-    <img src="https://img.shields.io/badge/adobeindesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe premierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe aftereffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe indesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white">
 </div>
 
 ## Portfolio List 📃
