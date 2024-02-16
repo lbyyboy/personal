@@ -1,6 +1,6 @@
 ### https://lbyyboy.github.io/personal/
 
-#이보연 포트폴리오 홈페이지 B-lab
+# 이보연 포트폴리오 홈페이지 B-lab
 
 ## Skills  🛠
 <div style="display:flex; flex-direction:row;">
