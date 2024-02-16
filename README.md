@@ -7,7 +7,7 @@
 취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
 
 ## 기술 스텍
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 - css3
 - jquery
 - javascript
