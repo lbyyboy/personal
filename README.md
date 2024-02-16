@@ -1,18 +1,21 @@
 ### https://lbyyboy.github.io/personal/
 # 프로젝트 명 : 이보연 포트폴리오 홈페이지 B-lab
-```bash
-<h1>제목</h1>
-```
+
 ## 프로젝트 목표
 취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
 
-## 기술 스텍
+## Skills  🛠
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
+    <img src="https://img.shields.io/badge/adobedreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
     <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
     <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
@@ -20,7 +23,6 @@
 </div>
 
 ## 기능 및 섹션
-(웹사이트의 주요 기능과 섹션을 설명)
 
 - 포트폴리오 작품 게시
 - 자기소개 페이지
