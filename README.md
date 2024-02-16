@@ -1,8 +1,6 @@
 ### https://lbyyboy.github.io/personal/
-이보연 포트폴리오 홈페이지 B-lab
 
-## Subject 📌
-포트폴리오 전시 및 홍보
+#이보연 포트폴리오 홈페이지 B-lab
 
 ## Skills  🛠
 <div style="display:flex; flex-direction:row;">
@@ -30,10 +28,6 @@
         <p>JGPARTNERS 홈페이지 데모</p>
     </a>
 </div>
-
-
-
-
 
 ## Contact 📞
 <div style="display:flex; flex-direction:row;">
