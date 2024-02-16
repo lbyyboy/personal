@@ -8,9 +8,14 @@
 
 ## 기술 스텍
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-- css3
-- jquery
-- javascript
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
+<img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
+<img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
+<img src="https://img.shields.io/badge/adobeindesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white">
 
 ## 기능 및 섹션
 (웹사이트의 주요 기능과 섹션을 설명)
