@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.instagram.com/b_lab_folio/">
-        <img src="https://img.shields.io/badge/instagraml-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
 
